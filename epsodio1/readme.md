@@ -1,4 +1,4 @@
-<a href="https://github.com/devsuperior/sds-dsmovie/tree/main/episodio1">Ir</a>
+[Link para Aula DevSuperior]("https://github.com/devsuperior/sds-dsmovie/tree/main/episodio1")
 
 Semana Spring React - Episódio 1
 
